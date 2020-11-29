@@ -7,7 +7,7 @@ Homework14
 
 ## Background
 
-The main golf of this project is to show very interesting information regarding Earthquakes arround the globe.
+The main goal of this project is to show very interesting information regarding Earthquakes arround the globe.
 
 Using basically javascript with Leaflet.
 
